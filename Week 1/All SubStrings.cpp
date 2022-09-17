@@ -25,5 +25,4 @@ int main()
     string str = "abcd";
     printSubstrings(str);
     return 0;
-    //    this code is contributed by defcdr
 }
